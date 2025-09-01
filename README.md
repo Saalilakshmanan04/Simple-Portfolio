@@ -10,6 +10,7 @@ This is a basic personal portfolio website created using **HTML** and **CSS** as
 - **Contact Page**
    Contains a link or placeholder for contact information.
 ### How to View
+Live Link: https://saalilakshmanan04.github.io/Simple-Portfolio/
      You can access my portfolio website by visiting the link.
 ### 💡 Purpose:
 This project was built to strengthen my frontend fundamentals and understand the structure of a multi-page website using clean and minimal code.
